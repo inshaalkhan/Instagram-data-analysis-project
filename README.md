@@ -1,1 +1,1 @@
-# Instagram-data-analysis-project
+# Instagram-marketing-data-analysis-project
