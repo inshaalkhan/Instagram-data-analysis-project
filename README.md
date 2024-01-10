@@ -1,4 +1,4 @@
-# Instagram-marketing-data-analysis-project
+# SocialMedia-marketing-data-analysis-project
 
 Mission: Empowering Marketing Campaigns through Data Insights
 
